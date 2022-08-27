@@ -85,6 +85,7 @@ nb-configuration.xml
 
 # Visual Studio Code
 .vscode/
+.vscode*
 
 phpunit.xml
 .phpunit.result.cache
